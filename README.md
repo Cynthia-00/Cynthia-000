@@ -1,4 +1,5 @@
-https://www.canva.com/design/DAFM2ODoEdU/p0IqAS_uGv5fjf_bPbEANQ/view?utm_content=DAFM2ODoEdU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![Thank You (Banner (Landscape))](https://user-images.githubusercontent.com/106689553/191459062-631e5fb4-d38a-451e-b92d-74e5d307c5ed.png)
+
 <h1 align="center">Hi 👋, I'm Cynthia Ejike</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
